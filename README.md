@@ -18,7 +18,7 @@ After reaching the end frequency, it should restart from the beginning. The requ
 4) This process remains same for all the four frequencies.</br>
 
 ## Extra Credit
-1) The waveforms were made to display on the oscilloscope in order to check if the frequencies and correctly displayed and for 1sec period i.e. each notes should be </br>
+1) The waveforms were made to display on the oscilloscope in order to check if the frequencies and correctly displayed and for 1sec period i.e. each notes should be
 played for only 1sec. Pictures are uploaded on the GitHub.
 
 
