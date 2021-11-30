@@ -14,12 +14,12 @@ After reaching the end frequency, it should restart from the beginning. The requ
 5) Once the waveform is generated, the ADC reads the samples from the generated waveform and converts it into digital value.</br>
 6) This digial value is analyzed to get to know the maximum and minimum amplitude of the generated sine waveform.</br>
 7) To play each note for 1sec, systick() timer has been used in order to accompish this task.
-
-4) This process remains same for all the four frequencies.</br>
+8) This process remains same for all the four frequencies.</br>
+9) The waveforms were made to display on the oscilloscope in order to check if the frequencies and correctly displayed and for 1sec period i.e. each notes should be
+played for only 1sec. Pictures are uploaded on the GitHub.</br>
 
 ## Extra Credit
-1) The waveforms were made to display on the oscilloscope in order to check if the frequencies and correctly displayed and for 1sec period i.e. each notes should be
-played for only 1sec. Pictures are uploaded on the GitHub.
+1) Caliberation routine is not implemented.
 
 
 
