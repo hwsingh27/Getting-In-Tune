@@ -19,7 +19,7 @@ After reaching the end frequency, it should restart from the beginning. The requ
 played for only 1sec. Pictures are uploaded on the GitHub.</br>
 
 ## Extra Credit
-1) Caliberation routine is not implemented.
+1) Calibration routine is not implemented.
 
 
 
