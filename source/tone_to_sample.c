@@ -12,7 +12,8 @@
 #include "common.h"
 
 /**
- * @brief: function generates the samples for the given frequency
+ * @brief: function generates the samples for the given frequency and stores them in the buffer
+ * which is then passed to the DAC over DMA to generate the waveform.
  *
  * @para: the frequency whose samples to be computed, buffer to store the samples, maximum size of the buffer
  * @return: the total number of samples in total number of cycles
