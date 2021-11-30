@@ -5,8 +5,8 @@
  * @date: November 29th 2021
  *
  * @tools: MCUXpresso IDE and FRDM-KL25Z Development Board
- * @credits: Taher Ujjainwala and Gaurang Rane for the implementation of
- * this function
+ * @credits: Collaboration with Taher Ujjainwala and Gaurang Rane for the implementation
+ * of this function
  */
 
 #include "common.h"
